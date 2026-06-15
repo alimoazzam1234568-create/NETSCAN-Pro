@@ -1,2 +1,3 @@
 # scan ip and mac address of devices 
-# live link "netscan-pro.app.vercel"
+# live link of website 
+https://netscan-pro.app.vercel
